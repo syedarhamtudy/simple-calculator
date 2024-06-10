@@ -1,0 +1,18 @@
+npm init    or npm init -y                 ( package.json )
+
+
+tsc --init				( tsconfig.json )
+
+
+npm i --save-dev @types/inquirer  	( Dev Dependencies )
+
+
+
+#! /usr/bin/env node   (For Making File Available Online)
+
+
+npm login (to login to your npm account)
+
+npm publish (to publish your code)
+
+npx arhama2s-simple-calculator ( to run your program)
